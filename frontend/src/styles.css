@@ -78,4 +78,12 @@ code { background: #efece4; padding: 1px 5px; border-radius: 4px; font-size: 13p
 .grid-card { position: relative; aspect-ratio: 4/3; border: 2px solid var(--line); border-radius: 10px; overflow: hidden; padding: 0; cursor: pointer; background: #efece4; }
 .grid-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .grid-card.selected { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.grid-pick-card { border-width: 2px; }
+.grid-pick-card.selected { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.gut-stage { max-width: 520px; margin: 0 auto 18px; }
+.gut-card { cursor: default; }
+.gut-actions { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+.secondary { border: 1px solid var(--line); background: #fff; color: var(--fg); border-radius: 10px; padding: 10px 22px; font-size: 15px; cursor: pointer; }
+.secondary:hover { border-color: var(--accent); }
+.love { background: #6a4f36; }
 .odd-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; max-width: 520px; }
