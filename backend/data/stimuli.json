@@ -1,0 +1,2906 @@
+[
+  {
+    "id": "int_000",
+    "domain": "interior",
+    "path": "data/stimuli/int_000.svg",
+    "caption": "cool geometric ornate dining room",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_001",
+    "domain": "interior",
+    "path": "data/stimuli/int_001.svg",
+    "caption": "cool organic minimal loft",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_002",
+    "domain": "interior",
+    "path": "data/stimuli/int_002.svg",
+    "caption": "warm geometric minimal loft",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_003",
+    "domain": "interior",
+    "path": "data/stimuli/int_003.svg",
+    "caption": "cool organic ornate loft",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_004",
+    "domain": "interior",
+    "path": "data/stimuli/int_004.svg",
+    "caption": "cool organic ornate bathroom",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_005",
+    "domain": "interior",
+    "path": "data/stimuli/int_005.svg",
+    "caption": "warm geometric minimal dining room",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_006",
+    "domain": "interior",
+    "path": "data/stimuli/int_006.svg",
+    "caption": "warm organic ornate living room",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_007",
+    "domain": "interior",
+    "path": "data/stimuli/int_007.svg",
+    "caption": "warm geometric ornate bathroom",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_008",
+    "domain": "interior",
+    "path": "data/stimuli/int_008.svg",
+    "caption": "cool organic ornate dining room",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_009",
+    "domain": "interior",
+    "path": "data/stimuli/int_009.svg",
+    "caption": "cool geometric minimal bathroom",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_010",
+    "domain": "interior",
+    "path": "data/stimuli/int_010.svg",
+    "caption": "cool geometric ornate den",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_011",
+    "domain": "interior",
+    "path": "data/stimuli/int_011.svg",
+    "caption": "warm organic minimal dining room",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_012",
+    "domain": "interior",
+    "path": "data/stimuli/int_012.svg",
+    "caption": "cool geometric minimal dining room",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_013",
+    "domain": "interior",
+    "path": "data/stimuli/int_013.svg",
+    "caption": "cool organic ornate den",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_014",
+    "domain": "interior",
+    "path": "data/stimuli/int_014.svg",
+    "caption": "cool geometric ornate reading nook",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_015",
+    "domain": "interior",
+    "path": "data/stimuli/int_015.svg",
+    "caption": "cool geometric ornate den",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_016",
+    "domain": "interior",
+    "path": "data/stimuli/int_016.svg",
+    "caption": "warm geometric minimal bathroom",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_017",
+    "domain": "interior",
+    "path": "data/stimuli/int_017.svg",
+    "caption": "cool geometric minimal den",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_018",
+    "domain": "interior",
+    "path": "data/stimuli/int_018.svg",
+    "caption": "cool organic ornate bedroom",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_019",
+    "domain": "interior",
+    "path": "data/stimuli/int_019.svg",
+    "caption": "cool organic minimal reading nook",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_020",
+    "domain": "interior",
+    "path": "data/stimuli/int_020.svg",
+    "caption": "cool geometric ornate studio",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_021",
+    "domain": "interior",
+    "path": "data/stimuli/int_021.svg",
+    "caption": "warm organic minimal bedroom",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_022",
+    "domain": "interior",
+    "path": "data/stimuli/int_022.svg",
+    "caption": "warm organic minimal den",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_023",
+    "domain": "interior",
+    "path": "data/stimuli/int_023.svg",
+    "caption": "warm organic ornate reading nook",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_024",
+    "domain": "interior",
+    "path": "data/stimuli/int_024.svg",
+    "caption": "cool organic minimal living room",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_025",
+    "domain": "interior",
+    "path": "data/stimuli/int_025.svg",
+    "caption": "warm organic minimal living room",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_026",
+    "domain": "interior",
+    "path": "data/stimuli/int_026.svg",
+    "caption": "cool geometric minimal bathroom",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_027",
+    "domain": "interior",
+    "path": "data/stimuli/int_027.svg",
+    "caption": "cool organic minimal loft",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_028",
+    "domain": "interior",
+    "path": "data/stimuli/int_028.svg",
+    "caption": "cool geometric ornate bedroom",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_029",
+    "domain": "interior",
+    "path": "data/stimuli/int_029.svg",
+    "caption": "cool geometric ornate hallway",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_030",
+    "domain": "interior",
+    "path": "data/stimuli/int_030.svg",
+    "caption": "cool geometric minimal dining room",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_031",
+    "domain": "interior",
+    "path": "data/stimuli/int_031.svg",
+    "caption": "warm organic ornate bedroom",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_032",
+    "domain": "interior",
+    "path": "data/stimuli/int_032.svg",
+    "caption": "cool organic minimal bedroom",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_033",
+    "domain": "interior",
+    "path": "data/stimuli/int_033.svg",
+    "caption": "cool organic minimal living room",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_034",
+    "domain": "interior",
+    "path": "data/stimuli/int_034.svg",
+    "caption": "cool geometric minimal studio",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_035",
+    "domain": "interior",
+    "path": "data/stimuli/int_035.svg",
+    "caption": "warm geometric minimal bathroom",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_036",
+    "domain": "interior",
+    "path": "data/stimuli/int_036.svg",
+    "caption": "cool organic minimal bedroom",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_037",
+    "domain": "interior",
+    "path": "data/stimuli/int_037.svg",
+    "caption": "cool organic ornate living room",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_038",
+    "domain": "interior",
+    "path": "data/stimuli/int_038.svg",
+    "caption": "warm organic minimal dining room",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_039",
+    "domain": "interior",
+    "path": "data/stimuli/int_039.svg",
+    "caption": "warm organic minimal loft",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_040",
+    "domain": "interior",
+    "path": "data/stimuli/int_040.svg",
+    "caption": "warm organic ornate hallway",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_041",
+    "domain": "interior",
+    "path": "data/stimuli/int_041.svg",
+    "caption": "warm organic minimal kitchen",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_042",
+    "domain": "interior",
+    "path": "data/stimuli/int_042.svg",
+    "caption": "cool geometric ornate loft",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_043",
+    "domain": "interior",
+    "path": "data/stimuli/int_043.svg",
+    "caption": "cool organic ornate kitchen",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_000",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_000.svg",
+    "caption": "warm organic minimal entryway",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_001",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_001.svg",
+    "caption": "cool geometric ornate porch",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_002",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_002.svg",
+    "caption": "cool geometric minimal facade",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_003",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_003.svg",
+    "caption": "cool organic minimal townhouse",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_004",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_004.svg",
+    "caption": "warm geometric ornate cabin",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_005",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_005.svg",
+    "caption": "warm organic minimal rooftop",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_006",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_006.svg",
+    "caption": "cool organic minimal cabin",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_007",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_007.svg",
+    "caption": "warm organic ornate entryway",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_008",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_008.svg",
+    "caption": "warm organic ornate pool house",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_009",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_009.svg",
+    "caption": "warm organic ornate garden",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_010",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_010.svg",
+    "caption": "cool organic minimal entryway",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_011",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_011.svg",
+    "caption": "warm organic minimal garden",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_012",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_012.svg",
+    "caption": "cool geometric ornate terrace",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_013",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_013.svg",
+    "caption": "cool organic minimal garden",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_014",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_014.svg",
+    "caption": "cool geometric minimal courtyard",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_015",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_015.svg",
+    "caption": "cool organic minimal garden",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_016",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_016.svg",
+    "caption": "cool organic minimal townhouse",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_017",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_017.svg",
+    "caption": "cool organic ornate cabin",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_018",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_018.svg",
+    "caption": "warm organic ornate terrace",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_019",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_019.svg",
+    "caption": "warm organic ornate rooftop",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_020",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_020.svg",
+    "caption": "cool organic minimal entryway",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_021",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_021.svg",
+    "caption": "cool organic minimal rooftop",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_022",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_022.svg",
+    "caption": "cool geometric minimal porch",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_023",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_023.svg",
+    "caption": "cool geometric ornate entryway",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_024",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_024.svg",
+    "caption": "cool organic minimal cabin",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_025",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_025.svg",
+    "caption": "warm organic minimal garden",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_026",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_026.svg",
+    "caption": "warm geometric ornate pool house",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_027",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_027.svg",
+    "caption": "cool organic ornate pool house",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_028",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_028.svg",
+    "caption": "cool geometric minimal entryway",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_029",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_029.svg",
+    "caption": "cool geometric minimal porch",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_030",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_030.svg",
+    "caption": "warm geometric ornate pool house",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_031",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_031.svg",
+    "caption": "cool geometric ornate garden",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_032",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_032.svg",
+    "caption": "cool organic ornate garden",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_033",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_033.svg",
+    "caption": "cool organic ornate rooftop",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_034",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_034.svg",
+    "caption": "cool organic ornate rooftop",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_035",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_035.svg",
+    "caption": "warm geometric ornate pool house",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_036",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_036.svg",
+    "caption": "cool geometric minimal terrace",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_037",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_037.svg",
+    "caption": "cool geometric minimal garden",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_038",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_038.svg",
+    "caption": "warm organic ornate rooftop",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_039",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_039.svg",
+    "caption": "warm organic minimal townhouse",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_040",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_040.svg",
+    "caption": "cool organic ornate rooftop",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "ext_041",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_041.svg",
+    "caption": "cool geometric minimal garden",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_042",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_042.svg",
+    "caption": "cool geometric ornate townhouse",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "ext_043",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_043.svg",
+    "caption": "warm geometric ornate porch",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_000",
+    "domain": "apparel",
+    "path": "data/stimuli/app_000.svg",
+    "caption": "warm geometric ornate jacket",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_001",
+    "domain": "apparel",
+    "path": "data/stimuli/app_001.svg",
+    "caption": "cool organic ornate boots",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_002",
+    "domain": "apparel",
+    "path": "data/stimuli/app_002.svg",
+    "caption": "warm organic ornate jacket",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_003",
+    "domain": "apparel",
+    "path": "data/stimuli/app_003.svg",
+    "caption": "warm organic ornate bag",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_004",
+    "domain": "apparel",
+    "path": "data/stimuli/app_004.svg",
+    "caption": "cool organic minimal boots",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_005",
+    "domain": "apparel",
+    "path": "data/stimuli/app_005.svg",
+    "caption": "warm organic ornate shirt",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_006",
+    "domain": "apparel",
+    "path": "data/stimuli/app_006.svg",
+    "caption": "cool organic ornate suit",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_007",
+    "domain": "apparel",
+    "path": "data/stimuli/app_007.svg",
+    "caption": "cool organic ornate shirt",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_008",
+    "domain": "apparel",
+    "path": "data/stimuli/app_008.svg",
+    "caption": "warm organic minimal sweater",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_009",
+    "domain": "apparel",
+    "path": "data/stimuli/app_009.svg",
+    "caption": "warm geometric ornate bag",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_010",
+    "domain": "apparel",
+    "path": "data/stimuli/app_010.svg",
+    "caption": "cool organic ornate suit",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_011",
+    "domain": "apparel",
+    "path": "data/stimuli/app_011.svg",
+    "caption": "warm organic minimal shirt",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_012",
+    "domain": "apparel",
+    "path": "data/stimuli/app_012.svg",
+    "caption": "cool organic ornate boots",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_013",
+    "domain": "apparel",
+    "path": "data/stimuli/app_013.svg",
+    "caption": "cool organic ornate bag",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_014",
+    "domain": "apparel",
+    "path": "data/stimuli/app_014.svg",
+    "caption": "warm geometric minimal bag",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_015",
+    "domain": "apparel",
+    "path": "data/stimuli/app_015.svg",
+    "caption": "warm geometric minimal trousers",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_016",
+    "domain": "apparel",
+    "path": "data/stimuli/app_016.svg",
+    "caption": "warm organic ornate coat",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_017",
+    "domain": "apparel",
+    "path": "data/stimuli/app_017.svg",
+    "caption": "warm geometric ornate jacket",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_018",
+    "domain": "apparel",
+    "path": "data/stimuli/app_018.svg",
+    "caption": "cool geometric ornate sweater",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_019",
+    "domain": "apparel",
+    "path": "data/stimuli/app_019.svg",
+    "caption": "warm geometric minimal dress",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_020",
+    "domain": "apparel",
+    "path": "data/stimuli/app_020.svg",
+    "caption": "warm geometric minimal scarf",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_021",
+    "domain": "apparel",
+    "path": "data/stimuli/app_021.svg",
+    "caption": "warm organic minimal boots",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_022",
+    "domain": "apparel",
+    "path": "data/stimuli/app_022.svg",
+    "caption": "cool geometric minimal coat",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_023",
+    "domain": "apparel",
+    "path": "data/stimuli/app_023.svg",
+    "caption": "cool organic ornate coat",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_024",
+    "domain": "apparel",
+    "path": "data/stimuli/app_024.svg",
+    "caption": "warm organic minimal suit",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_025",
+    "domain": "apparel",
+    "path": "data/stimuli/app_025.svg",
+    "caption": "warm organic ornate dress",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_026",
+    "domain": "apparel",
+    "path": "data/stimuli/app_026.svg",
+    "caption": "warm geometric ornate suit",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_027",
+    "domain": "apparel",
+    "path": "data/stimuli/app_027.svg",
+    "caption": "warm organic ornate dress",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_028",
+    "domain": "apparel",
+    "path": "data/stimuli/app_028.svg",
+    "caption": "warm organic minimal sweater",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_029",
+    "domain": "apparel",
+    "path": "data/stimuli/app_029.svg",
+    "caption": "warm geometric ornate bag",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_030",
+    "domain": "apparel",
+    "path": "data/stimuli/app_030.svg",
+    "caption": "cool geometric ornate sweater",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_031",
+    "domain": "apparel",
+    "path": "data/stimuli/app_031.svg",
+    "caption": "cool organic minimal coat",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_032",
+    "domain": "apparel",
+    "path": "data/stimuli/app_032.svg",
+    "caption": "warm organic minimal scarf",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_033",
+    "domain": "apparel",
+    "path": "data/stimuli/app_033.svg",
+    "caption": "warm geometric ornate suit",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_034",
+    "domain": "apparel",
+    "path": "data/stimuli/app_034.svg",
+    "caption": "warm organic ornate dress",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_035",
+    "domain": "apparel",
+    "path": "data/stimuli/app_035.svg",
+    "caption": "cool organic minimal bag",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_036",
+    "domain": "apparel",
+    "path": "data/stimuli/app_036.svg",
+    "caption": "warm organic ornate boots",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_037",
+    "domain": "apparel",
+    "path": "data/stimuli/app_037.svg",
+    "caption": "warm organic minimal boots",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_038",
+    "domain": "apparel",
+    "path": "data/stimuli/app_038.svg",
+    "caption": "warm organic minimal boots",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_039",
+    "domain": "apparel",
+    "path": "data/stimuli/app_039.svg",
+    "caption": "cool geometric ornate dress",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_040",
+    "domain": "apparel",
+    "path": "data/stimuli/app_040.svg",
+    "caption": "warm organic minimal shirt",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_041",
+    "domain": "apparel",
+    "path": "data/stimuli/app_041.svg",
+    "caption": "warm organic minimal boots",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_042",
+    "domain": "apparel",
+    "path": "data/stimuli/app_042.svg",
+    "caption": "warm geometric ornate coat",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_043",
+    "domain": "apparel",
+    "path": "data/stimuli/app_043.svg",
+    "caption": "warm geometric minimal trousers",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_000",
+    "domain": "object",
+    "path": "data/stimuli/obj_000.svg",
+    "caption": "warm organic ornate clock",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_001",
+    "domain": "object",
+    "path": "data/stimuli/obj_001.svg",
+    "caption": "cool geometric minimal lamp",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_002",
+    "domain": "object",
+    "path": "data/stimuli/obj_002.svg",
+    "caption": "warm geometric minimal shelf",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_003",
+    "domain": "object",
+    "path": "data/stimuli/obj_003.svg",
+    "caption": "cool organic ornate mirror",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_004",
+    "domain": "object",
+    "path": "data/stimuli/obj_004.svg",
+    "caption": "warm organic ornate chair",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_005",
+    "domain": "object",
+    "path": "data/stimuli/obj_005.svg",
+    "caption": "cool organic minimal vase",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_006",
+    "domain": "object",
+    "path": "data/stimuli/obj_006.svg",
+    "caption": "cool geometric ornate lamp",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_007",
+    "domain": "object",
+    "path": "data/stimuli/obj_007.svg",
+    "caption": "warm organic ornate mirror",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_008",
+    "domain": "object",
+    "path": "data/stimuli/obj_008.svg",
+    "caption": "warm organic ornate shelf",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_009",
+    "domain": "object",
+    "path": "data/stimuli/obj_009.svg",
+    "caption": "warm geometric minimal lamp",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_010",
+    "domain": "object",
+    "path": "data/stimuli/obj_010.svg",
+    "caption": "cool organic minimal clock",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_011",
+    "domain": "object",
+    "path": "data/stimuli/obj_011.svg",
+    "caption": "cool organic ornate clock",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_012",
+    "domain": "object",
+    "path": "data/stimuli/obj_012.svg",
+    "caption": "warm organic ornate kettle",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_013",
+    "domain": "object",
+    "path": "data/stimuli/obj_013.svg",
+    "caption": "warm organic minimal chair",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_014",
+    "domain": "object",
+    "path": "data/stimuli/obj_014.svg",
+    "caption": "cool organic minimal shelf",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_015",
+    "domain": "object",
+    "path": "data/stimuli/obj_015.svg",
+    "caption": "warm geometric minimal rug",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_016",
+    "domain": "object",
+    "path": "data/stimuli/obj_016.svg",
+    "caption": "cool geometric minimal vase",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_017",
+    "domain": "object",
+    "path": "data/stimuli/obj_017.svg",
+    "caption": "cool organic minimal chair",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_018",
+    "domain": "object",
+    "path": "data/stimuli/obj_018.svg",
+    "caption": "warm geometric ornate rug",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_019",
+    "domain": "object",
+    "path": "data/stimuli/obj_019.svg",
+    "caption": "cool organic minimal chair",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_020",
+    "domain": "object",
+    "path": "data/stimuli/obj_020.svg",
+    "caption": "cool geometric ornate clock",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_021",
+    "domain": "object",
+    "path": "data/stimuli/obj_021.svg",
+    "caption": "cool organic minimal chair",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_022",
+    "domain": "object",
+    "path": "data/stimuli/obj_022.svg",
+    "caption": "warm organic minimal chair",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_023",
+    "domain": "object",
+    "path": "data/stimuli/obj_023.svg",
+    "caption": "warm organic ornate clock",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_024",
+    "domain": "object",
+    "path": "data/stimuli/obj_024.svg",
+    "caption": "cool organic minimal mirror",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_025",
+    "domain": "object",
+    "path": "data/stimuli/obj_025.svg",
+    "caption": "warm geometric ornate mirror",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_026",
+    "domain": "object",
+    "path": "data/stimuli/obj_026.svg",
+    "caption": "cool geometric ornate clock",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_027",
+    "domain": "object",
+    "path": "data/stimuli/obj_027.svg",
+    "caption": "cool organic ornate rug",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_028",
+    "domain": "object",
+    "path": "data/stimuli/obj_028.svg",
+    "caption": "warm organic ornate kettle",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_029",
+    "domain": "object",
+    "path": "data/stimuli/obj_029.svg",
+    "caption": "warm organic minimal rug",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_030",
+    "domain": "object",
+    "path": "data/stimuli/obj_030.svg",
+    "caption": "cool organic minimal kettle",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_031",
+    "domain": "object",
+    "path": "data/stimuli/obj_031.svg",
+    "caption": "warm geometric minimal bowl",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_032",
+    "domain": "object",
+    "path": "data/stimuli/obj_032.svg",
+    "caption": "cool geometric ornate rug",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_033",
+    "domain": "object",
+    "path": "data/stimuli/obj_033.svg",
+    "caption": "cool geometric ornate kettle",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_034",
+    "domain": "object",
+    "path": "data/stimuli/obj_034.svg",
+    "caption": "cool geometric minimal rug",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_035",
+    "domain": "object",
+    "path": "data/stimuli/obj_035.svg",
+    "caption": "warm organic minimal vase",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_036",
+    "domain": "object",
+    "path": "data/stimuli/obj_036.svg",
+    "caption": "cool geometric minimal chair",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_037",
+    "domain": "object",
+    "path": "data/stimuli/obj_037.svg",
+    "caption": "warm geometric minimal chair",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "obj_038",
+    "domain": "object",
+    "path": "data/stimuli/obj_038.svg",
+    "caption": "cool organic minimal chair",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_039",
+    "domain": "object",
+    "path": "data/stimuli/obj_039.svg",
+    "caption": "cool organic ornate chair",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_040",
+    "domain": "object",
+    "path": "data/stimuli/obj_040.svg",
+    "caption": "cool organic minimal rug",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_041",
+    "domain": "object",
+    "path": "data/stimuli/obj_041.svg",
+    "caption": "warm organic ornate bowl",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_042",
+    "domain": "object",
+    "path": "data/stimuli/obj_042.svg",
+    "caption": "warm organic minimal clock",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "obj_043",
+    "domain": "object",
+    "path": "data/stimuli/obj_043.svg",
+    "caption": "cool geometric ornate table",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_000",
+    "domain": "art",
+    "path": "data/stimuli/art_000.svg",
+    "caption": "warm organic ornate photograph",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_001",
+    "domain": "art",
+    "path": "data/stimuli/art_001.svg",
+    "caption": "cool organic minimal etching",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_002",
+    "domain": "art",
+    "path": "data/stimuli/art_002.svg",
+    "caption": "cool geometric minimal relief",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_003",
+    "domain": "art",
+    "path": "data/stimuli/art_003.svg",
+    "caption": "cool geometric ornate etching",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_004",
+    "domain": "art",
+    "path": "data/stimuli/art_004.svg",
+    "caption": "cool geometric ornate landscape painting",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_005",
+    "domain": "art",
+    "path": "data/stimuli/art_005.svg",
+    "caption": "cool organic ornate etching",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_006",
+    "domain": "art",
+    "path": "data/stimuli/art_006.svg",
+    "caption": "warm geometric ornate relief",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_007",
+    "domain": "art",
+    "path": "data/stimuli/art_007.svg",
+    "caption": "warm geometric ornate collage",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_008",
+    "domain": "art",
+    "path": "data/stimuli/art_008.svg",
+    "caption": "cool geometric ornate collage",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_009",
+    "domain": "art",
+    "path": "data/stimuli/art_009.svg",
+    "caption": "cool geometric minimal mural study",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_010",
+    "domain": "art",
+    "path": "data/stimuli/art_010.svg",
+    "caption": "warm geometric minimal mural study",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_011",
+    "domain": "art",
+    "path": "data/stimuli/art_011.svg",
+    "caption": "warm organic ornate relief",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_012",
+    "domain": "art",
+    "path": "data/stimuli/art_012.svg",
+    "caption": "cool organic minimal relief",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_013",
+    "domain": "art",
+    "path": "data/stimuli/art_013.svg",
+    "caption": "cool organic minimal poster",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_014",
+    "domain": "art",
+    "path": "data/stimuli/art_014.svg",
+    "caption": "cool geometric minimal mural study",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_015",
+    "domain": "art",
+    "path": "data/stimuli/art_015.svg",
+    "caption": "warm organic ornate relief",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_016",
+    "domain": "art",
+    "path": "data/stimuli/art_016.svg",
+    "caption": "warm geometric minimal poster",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_017",
+    "domain": "art",
+    "path": "data/stimuli/art_017.svg",
+    "caption": "cool organic minimal etching",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_018",
+    "domain": "art",
+    "path": "data/stimuli/art_018.svg",
+    "caption": "warm geometric minimal landscape painting",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_019",
+    "domain": "art",
+    "path": "data/stimuli/art_019.svg",
+    "caption": "cool geometric ornate mural study",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_020",
+    "domain": "art",
+    "path": "data/stimuli/art_020.svg",
+    "caption": "warm organic minimal still life",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_021",
+    "domain": "art",
+    "path": "data/stimuli/art_021.svg",
+    "caption": "warm geometric ornate collage",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_022",
+    "domain": "art",
+    "path": "data/stimuli/art_022.svg",
+    "caption": "cool organic minimal relief",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_023",
+    "domain": "art",
+    "path": "data/stimuli/art_023.svg",
+    "caption": "warm geometric ornate landscape painting",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_024",
+    "domain": "art",
+    "path": "data/stimuli/art_024.svg",
+    "caption": "warm organic minimal abstract print",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_025",
+    "domain": "art",
+    "path": "data/stimuli/art_025.svg",
+    "caption": "warm geometric ornate mural study",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_026",
+    "domain": "art",
+    "path": "data/stimuli/art_026.svg",
+    "caption": "cool organic minimal landscape painting",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_027",
+    "domain": "art",
+    "path": "data/stimuli/art_027.svg",
+    "caption": "warm geometric ornate relief",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_028",
+    "domain": "art",
+    "path": "data/stimuli/art_028.svg",
+    "caption": "warm geometric ornate mural study",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_029",
+    "domain": "art",
+    "path": "data/stimuli/art_029.svg",
+    "caption": "warm geometric ornate still life",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_030",
+    "domain": "art",
+    "path": "data/stimuli/art_030.svg",
+    "caption": "cool organic ornate line drawing",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_031",
+    "domain": "art",
+    "path": "data/stimuli/art_031.svg",
+    "caption": "cool organic minimal collage",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_032",
+    "domain": "art",
+    "path": "data/stimuli/art_032.svg",
+    "caption": "warm geometric ornate mural study",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_033",
+    "domain": "art",
+    "path": "data/stimuli/art_033.svg",
+    "caption": "warm organic ornate line drawing",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_034",
+    "domain": "art",
+    "path": "data/stimuli/art_034.svg",
+    "caption": "warm organic minimal still life",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_035",
+    "domain": "art",
+    "path": "data/stimuli/art_035.svg",
+    "caption": "cool organic ornate abstract print",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_036",
+    "domain": "art",
+    "path": "data/stimuli/art_036.svg",
+    "caption": "warm geometric ornate abstract print",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_037",
+    "domain": "art",
+    "path": "data/stimuli/art_037.svg",
+    "caption": "cool organic ornate mural study",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_038",
+    "domain": "art",
+    "path": "data/stimuli/art_038.svg",
+    "caption": "warm organic ornate etching",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_039",
+    "domain": "art",
+    "path": "data/stimuli/art_039.svg",
+    "caption": "cool organic minimal still life",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_040",
+    "domain": "art",
+    "path": "data/stimuli/art_040.svg",
+    "caption": "cool geometric minimal abstract print",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_041",
+    "domain": "art",
+    "path": "data/stimuli/art_041.svg",
+    "caption": "cool geometric minimal line drawing",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "art_042",
+    "domain": "art",
+    "path": "data/stimuli/art_042.svg",
+    "caption": "warm organic ornate line drawing",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "art_043",
+    "domain": "art",
+    "path": "data/stimuli/art_043.svg",
+    "caption": "cool organic minimal collage",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_000",
+    "domain": "palette",
+    "path": "data/stimuli/pal_000.svg",
+    "caption": "cool organic minimal monochrome palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_001",
+    "domain": "palette",
+    "path": "data/stimuli/pal_001.svg",
+    "caption": "cool organic minimal forest palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_002",
+    "domain": "palette",
+    "path": "data/stimuli/pal_002.svg",
+    "caption": "cool organic ornate sea palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_003",
+    "domain": "palette",
+    "path": "data/stimuli/pal_003.svg",
+    "caption": "cool geometric ornate neutral palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_004",
+    "domain": "palette",
+    "path": "data/stimuli/pal_004.svg",
+    "caption": "cool organic ornate dusk palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_005",
+    "domain": "palette",
+    "path": "data/stimuli/pal_005.svg",
+    "caption": "warm geometric ornate pastel palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_006",
+    "domain": "palette",
+    "path": "data/stimuli/pal_006.svg",
+    "caption": "warm geometric ornate neutral palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_007",
+    "domain": "palette",
+    "path": "data/stimuli/pal_007.svg",
+    "caption": "warm geometric minimal monochrome palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_008",
+    "domain": "palette",
+    "path": "data/stimuli/pal_008.svg",
+    "caption": "cool geometric ornate pastel palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_009",
+    "domain": "palette",
+    "path": "data/stimuli/pal_009.svg",
+    "caption": "warm organic minimal monochrome palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_010",
+    "domain": "palette",
+    "path": "data/stimuli/pal_010.svg",
+    "caption": "cool geometric ornate pastel palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_011",
+    "domain": "palette",
+    "path": "data/stimuli/pal_011.svg",
+    "caption": "cool geometric ornate jewel-tone palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_012",
+    "domain": "palette",
+    "path": "data/stimuli/pal_012.svg",
+    "caption": "warm organic ornate earthy palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_013",
+    "domain": "palette",
+    "path": "data/stimuli/pal_013.svg",
+    "caption": "cool organic minimal jewel-tone palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_014",
+    "domain": "palette",
+    "path": "data/stimuli/pal_014.svg",
+    "caption": "cool geometric minimal primary palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_015",
+    "domain": "palette",
+    "path": "data/stimuli/pal_015.svg",
+    "caption": "cool organic minimal primary palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_016",
+    "domain": "palette",
+    "path": "data/stimuli/pal_016.svg",
+    "caption": "cool organic minimal clay palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_017",
+    "domain": "palette",
+    "path": "data/stimuli/pal_017.svg",
+    "caption": "warm geometric minimal neutral palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_018",
+    "domain": "palette",
+    "path": "data/stimuli/pal_018.svg",
+    "caption": "cool geometric ornate pastel palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_019",
+    "domain": "palette",
+    "path": "data/stimuli/pal_019.svg",
+    "caption": "cool organic ornate earthy palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_020",
+    "domain": "palette",
+    "path": "data/stimuli/pal_020.svg",
+    "caption": "cool geometric minimal primary palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_021",
+    "domain": "palette",
+    "path": "data/stimuli/pal_021.svg",
+    "caption": "warm organic ornate jewel-tone palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_022",
+    "domain": "palette",
+    "path": "data/stimuli/pal_022.svg",
+    "caption": "cool geometric ornate pastel palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_023",
+    "domain": "palette",
+    "path": "data/stimuli/pal_023.svg",
+    "caption": "warm geometric minimal neutral palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_024",
+    "domain": "palette",
+    "path": "data/stimuli/pal_024.svg",
+    "caption": "cool organic ornate jewel-tone palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_025",
+    "domain": "palette",
+    "path": "data/stimuli/pal_025.svg",
+    "caption": "warm geometric minimal forest palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_026",
+    "domain": "palette",
+    "path": "data/stimuli/pal_026.svg",
+    "caption": "cool organic minimal dusk palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_027",
+    "domain": "palette",
+    "path": "data/stimuli/pal_027.svg",
+    "caption": "cool organic ornate pastel palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_028",
+    "domain": "palette",
+    "path": "data/stimuli/pal_028.svg",
+    "caption": "warm organic ornate neutral palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_029",
+    "domain": "palette",
+    "path": "data/stimuli/pal_029.svg",
+    "caption": "cool organic minimal primary palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_030",
+    "domain": "palette",
+    "path": "data/stimuli/pal_030.svg",
+    "caption": "cool organic minimal sea palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_031",
+    "domain": "palette",
+    "path": "data/stimuli/pal_031.svg",
+    "caption": "warm organic ornate neutral palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_032",
+    "domain": "palette",
+    "path": "data/stimuli/pal_032.svg",
+    "caption": "cool organic ornate earthy palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_033",
+    "domain": "palette",
+    "path": "data/stimuli/pal_033.svg",
+    "caption": "warm organic ornate dusk palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_034",
+    "domain": "palette",
+    "path": "data/stimuli/pal_034.svg",
+    "caption": "cool geometric minimal dusk palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_035",
+    "domain": "palette",
+    "path": "data/stimuli/pal_035.svg",
+    "caption": "cool geometric ornate monochrome palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_036",
+    "domain": "palette",
+    "path": "data/stimuli/pal_036.svg",
+    "caption": "warm geometric minimal sea palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_037",
+    "domain": "palette",
+    "path": "data/stimuli/pal_037.svg",
+    "caption": "cool geometric ornate sea palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_038",
+    "domain": "palette",
+    "path": "data/stimuli/pal_038.svg",
+    "caption": "warm geometric ornate monochrome palette",
+    "tags": [
+      "warm",
+      "ornate",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_039",
+    "domain": "palette",
+    "path": "data/stimuli/pal_039.svg",
+    "caption": "warm organic minimal neutral palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_040",
+    "domain": "palette",
+    "path": "data/stimuli/pal_040.svg",
+    "caption": "warm organic minimal clay palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_041",
+    "domain": "palette",
+    "path": "data/stimuli/pal_041.svg",
+    "caption": "cool geometric minimal jewel-tone palette",
+    "tags": [
+      "cool",
+      "minimal",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_042",
+    "domain": "palette",
+    "path": "data/stimuli/pal_042.svg",
+    "caption": "warm organic minimal jewel-tone palette",
+    "tags": [
+      "warm",
+      "minimal",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_043",
+    "domain": "palette",
+    "path": "data/stimuli/pal_043.svg",
+    "caption": "cool organic ornate sea palette",
+    "tags": [
+      "cool",
+      "ornate",
+      "organic"
+    ]
+  }
+]

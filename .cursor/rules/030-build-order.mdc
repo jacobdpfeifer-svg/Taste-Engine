@@ -1,0 +1,25 @@
+---
+description: Build order and phase gates — follow strictly
+alwaysApply: true
+---
+
+# Build order (do not skip phases)
+
+Work `docs/TASKS.md` top to bottom. The gates below are hard stops.
+
+- **Phase 0 — Runnable skeleton.** Backend boots, `pytest` passes (synthetic proof in
+  `test_geometry.py` already demonstrates the core mechanism). Frontend renders a pair and posts
+  a choice.
+- **Phase 1 — Validation (the whole point).** Real elicitation loop end-to-end; fit a single
+  shared vector; the three falsifiable tests run and report.
+  **GATE:** hold-out accuracy must beat chance on real user data. If it does not, STOP and
+  surface the result — the premise has failed and later phases are unjustified.
+- **Phase 2 — Hierarchy + articulation.** Shared `g` + per-domain offsets; axis discovery +
+  labeling; the confirmation step where the AI names axes and the user ratifies.
+  **GATE:** cross-domain transfer must beat chance, or downgrade to per-domain assessments.
+- **Phase 3 — Color-affect module.** Personalized color→emotion elicitation and map.
+- **Phase 4 — Generation.** Compose a brief from the kernel and route to a generator per domain.
+  This is expensive; do not start it until Phases 1–2 gates pass.
+
+When unsure whether to build something, check which phase it belongs to. Never pull Phase 4 work
+forward to "make it feel real" — a validated kernel is what makes it real.

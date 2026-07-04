@@ -1,0 +1,36 @@
+---
+description: Coding conventions
+globs: backend/**,frontend/**
+alwaysApply: false
+---
+
+# Conventions
+
+## Backend (Python)
+
+- Python 3.11+, type hints everywhere, `from __future__ import annotations` where helpful.
+- FastAPI for the API; Pydantic models for request/response schemas (`app/schemas.py`).
+- Keep numeric code in numpy; use scikit-learn for the logistic fit. No heavyweight ML frameworks
+  in Phase 1.
+- Embeddings ALWAYS go through `EmbeddingAdapter`. Never call a model directly from a route.
+- Persistence via stdlib `sqlite3` in `app/db.py` — no ORM in Phase 1.
+- Pure functions for anything testable (fit, validation, active learning). Routes orchestrate;
+  they don't compute.
+- Every new numeric function gets a unit test in `backend/tests/`.
+- Run: `uvicorn app.main:app --reload` from `backend/`. Test: `pytest` from `backend/`.
+
+## Frontend (React + TS)
+
+- Vite + React + TypeScript, functional components + hooks, plain CSS (`src/styles.css`). No CSS
+  framework, no component library in Phase 1.
+- The core interaction is `PairChoice`: show two images, one tap/click records a choice and loads
+  the next pair. Keep latency invisible — prefetch the next pair.
+- No free-text taste input anywhere in the assessment flow.
+- API calls live in `src/api.ts`; components don't fetch directly.
+- Keep it a single-page flow: assess → (fit) → results/validation dashboard.
+
+## General
+
+- Small, focused commits that map to `docs/TASKS.md` items.
+- Do not add dependencies not already implied by the task; if you must, note why in the PR/commit.
+- Keep secrets in `.env` (see `.env.example`); never hardcode paths or keys.

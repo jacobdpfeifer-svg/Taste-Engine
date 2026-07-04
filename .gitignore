@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+*.sqlite3
+backend/data/stimuli/
+# node
+node_modules/
+dist/
+# env
+.env
+# kernels / artifacts
+kernels/

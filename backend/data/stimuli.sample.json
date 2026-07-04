@@ -1,0 +1,354 @@
+[
+  {
+    "id": "int_000",
+    "domain": "interior",
+    "path": "data/stimuli/int_000.jpg",
+    "caption": "minimal high-contrast cool living room",
+    "tags": [
+      "minimal",
+      "high-contrast",
+      "cool"
+    ]
+  },
+  {
+    "id": "int_001",
+    "domain": "interior",
+    "path": "data/stimuli/int_001.jpg",
+    "caption": "matte cool geometric kitchen",
+    "tags": [
+      "matte",
+      "cool",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_002",
+    "domain": "interior",
+    "path": "data/stimuli/int_002.jpg",
+    "caption": "geometric saturated organic bedroom",
+    "tags": [
+      "geometric",
+      "saturated",
+      "organic"
+    ]
+  },
+  {
+    "id": "int_003",
+    "domain": "interior",
+    "path": "data/stimuli/int_003.jpg",
+    "caption": "ornate cool geometric studio",
+    "tags": [
+      "ornate",
+      "cool",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_004",
+    "domain": "interior",
+    "path": "data/stimuli/int_004.jpg",
+    "caption": "warm organic muted reading nook",
+    "tags": [
+      "warm",
+      "organic",
+      "muted"
+    ]
+  },
+  {
+    "id": "int_005",
+    "domain": "interior",
+    "path": "data/stimuli/int_005.jpg",
+    "caption": "high-contrast warm geometric loft",
+    "tags": [
+      "high-contrast",
+      "warm",
+      "geometric"
+    ]
+  },
+  {
+    "id": "int_006",
+    "domain": "interior",
+    "path": "data/stimuli/int_006.jpg",
+    "caption": "matte ornate high-contrast hallway",
+    "tags": [
+      "matte",
+      "ornate",
+      "high-contrast"
+    ]
+  },
+  {
+    "id": "int_007",
+    "domain": "interior",
+    "path": "data/stimuli/int_007.jpg",
+    "caption": "cool glossy warm bathroom",
+    "tags": [
+      "cool",
+      "glossy",
+      "warm"
+    ]
+  },
+  {
+    "id": "ext_000",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_000.jpg",
+    "caption": "warm saturated low-contrast facade",
+    "tags": [
+      "warm",
+      "saturated",
+      "low-contrast"
+    ]
+  },
+  {
+    "id": "ext_001",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_001.jpg",
+    "caption": "warm organic ornate cabin",
+    "tags": [
+      "warm",
+      "organic",
+      "ornate"
+    ]
+  },
+  {
+    "id": "ext_002",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_002.jpg",
+    "caption": "organic warm low-contrast garden",
+    "tags": [
+      "organic",
+      "warm",
+      "low-contrast"
+    ]
+  },
+  {
+    "id": "ext_003",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_003.jpg",
+    "caption": "ornate geometric muted courtyard",
+    "tags": [
+      "ornate",
+      "geometric",
+      "muted"
+    ]
+  },
+  {
+    "id": "ext_004",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_004.jpg",
+    "caption": "low-contrast ornate glossy porch",
+    "tags": [
+      "low-contrast",
+      "ornate",
+      "glossy"
+    ]
+  },
+  {
+    "id": "ext_005",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_005.jpg",
+    "caption": "ornate muted saturated rooftop",
+    "tags": [
+      "ornate",
+      "muted",
+      "saturated"
+    ]
+  },
+  {
+    "id": "ext_006",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_006.jpg",
+    "caption": "geometric matte warm entryway",
+    "tags": [
+      "geometric",
+      "matte",
+      "warm"
+    ]
+  },
+  {
+    "id": "ext_007",
+    "domain": "exterior",
+    "path": "data/stimuli/ext_007.jpg",
+    "caption": "organic low-contrast cool pool house",
+    "tags": [
+      "organic",
+      "low-contrast",
+      "cool"
+    ]
+  },
+  {
+    "id": "app_000",
+    "domain": "apparel",
+    "path": "data/stimuli/app_000.jpg",
+    "caption": "minimal muted matte jacket",
+    "tags": [
+      "minimal",
+      "muted",
+      "matte"
+    ]
+  },
+  {
+    "id": "app_001",
+    "domain": "apparel",
+    "path": "data/stimuli/app_001.jpg",
+    "caption": "cool glossy low-contrast trousers",
+    "tags": [
+      "cool",
+      "glossy",
+      "low-contrast"
+    ]
+  },
+  {
+    "id": "app_002",
+    "domain": "apparel",
+    "path": "data/stimuli/app_002.jpg",
+    "caption": "organic low-contrast ornate dress",
+    "tags": [
+      "organic",
+      "low-contrast",
+      "ornate"
+    ]
+  },
+  {
+    "id": "app_003",
+    "domain": "apparel",
+    "path": "data/stimuli/app_003.jpg",
+    "caption": "matte saturated high-contrast knit sweater",
+    "tags": [
+      "matte",
+      "saturated",
+      "high-contrast"
+    ]
+  },
+  {
+    "id": "app_004",
+    "domain": "apparel",
+    "path": "data/stimuli/app_004.jpg",
+    "caption": "geometric low-contrast organic coat",
+    "tags": [
+      "geometric",
+      "low-contrast",
+      "organic"
+    ]
+  },
+  {
+    "id": "app_005",
+    "domain": "apparel",
+    "path": "data/stimuli/app_005.jpg",
+    "caption": "high-contrast warm geometric shirt",
+    "tags": [
+      "high-contrast",
+      "warm",
+      "geometric"
+    ]
+  },
+  {
+    "id": "app_006",
+    "domain": "apparel",
+    "path": "data/stimuli/app_006.jpg",
+    "caption": "ornate organic muted boots",
+    "tags": [
+      "ornate",
+      "organic",
+      "muted"
+    ]
+  },
+  {
+    "id": "app_007",
+    "domain": "apparel",
+    "path": "data/stimuli/app_007.jpg",
+    "caption": "muted minimal glossy bag",
+    "tags": [
+      "muted",
+      "minimal",
+      "glossy"
+    ]
+  },
+  {
+    "id": "pal_000",
+    "domain": "palette",
+    "path": "data/stimuli/pal_000.jpg",
+    "caption": "low-contrast muted glossy warm neutral",
+    "tags": [
+      "low-contrast",
+      "muted",
+      "glossy"
+    ]
+  },
+  {
+    "id": "pal_001",
+    "domain": "palette",
+    "path": "data/stimuli/pal_001.jpg",
+    "caption": "cool geometric low-contrast cool gray",
+    "tags": [
+      "cool",
+      "geometric",
+      "low-contrast"
+    ]
+  },
+  {
+    "id": "pal_002",
+    "domain": "palette",
+    "path": "data/stimuli/pal_002.jpg",
+    "caption": "cool minimal low-contrast earthy olive",
+    "tags": [
+      "cool",
+      "minimal",
+      "low-contrast"
+    ]
+  },
+  {
+    "id": "pal_003",
+    "domain": "palette",
+    "path": "data/stimuli/pal_003.jpg",
+    "caption": "organic glossy geometric bold primary",
+    "tags": [
+      "organic",
+      "glossy",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_004",
+    "domain": "palette",
+    "path": "data/stimuli/pal_004.jpg",
+    "caption": "saturated warm geometric pastel",
+    "tags": [
+      "saturated",
+      "warm",
+      "geometric"
+    ]
+  },
+  {
+    "id": "pal_005",
+    "domain": "palette",
+    "path": "data/stimuli/pal_005.jpg",
+    "caption": "warm matte high-contrast monochrome",
+    "tags": [
+      "warm",
+      "matte",
+      "high-contrast"
+    ]
+  },
+  {
+    "id": "pal_006",
+    "domain": "palette",
+    "path": "data/stimuli/pal_006.jpg",
+    "caption": "high-contrast saturated organic jewel tone",
+    "tags": [
+      "high-contrast",
+      "saturated",
+      "organic"
+    ]
+  },
+  {
+    "id": "pal_007",
+    "domain": "palette",
+    "path": "data/stimuli/pal_007.jpg",
+    "caption": "muted minimal saturated muted clay",
+    "tags": [
+      "muted",
+      "minimal",
+      "saturated"
+    ]
+  }
+]

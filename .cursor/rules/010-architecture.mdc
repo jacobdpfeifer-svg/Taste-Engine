@@ -1,0 +1,47 @@
+---
+description: Architecture, module responsibilities, and data flow
+alwaysApply: true
+---
+
+# Architecture
+
+Pipeline (mirrors `docs/SPEC.md`):
+
+```
+Elicitation ─▶ Embedding space ─▶ Taste kernel ─▶ (later) Generation
+ (choices)      (vectors)          g + d_k + axes + color map
+```
+
+## Modules and their single responsibility
+
+- `app/stimuli/loader.py` — load the stimulus bank (images + metadata) and attach embeddings.
+- `app/embeddings/` — turn a stimulus into a vector. `base.EmbeddingAdapter` is the interface;
+  `stub_adapter` is deterministic (default, no downloads); `openclip_adapter` is the real one.
+- `app/elicitation/active.py` — choose the next pair to show (active learning / uncertainty
+  sampling); random until a model exists (cold start).
+- `app/geometry/fit.py` — fit a taste direction from binary choices (logistic over embedding
+  differences → Bradley-Terry-style linear utility). This is the core.
+- `app/geometry/hierarchy.py` — the KEY architectural piece: estimate shared `g` + per-domain
+  offsets `d_k` (partial pooling). Start as a documented stub; implement in Phase 2.
+- `app/geometry/axes.py` — discover + label the person's operative axes (Phase 2).
+- `app/validation/holdout.py` — the falsifiable tests: hold-out accuracy, cross-domain transfer,
+  ablation. Phase 1 gate.
+- `app/db.py` — sqlite persistence for sessions + choices.
+- `app/main.py` — FastAPI wiring only; no business logic beyond orchestration.
+
+## The taste model (single source of truth)
+
+For a pair (a, b) where the user chose a over b, the model learns weights `w` such that
+`w · (emb_a − emb_b) > 0`. `score(item) = w · emb_item`. Higher score = more preferred.
+
+Hierarchical extension: `w_domain = g + d_domain`. Fit `g` on all choices; fit each `d_k` on that
+domain's choices with `g` as a warm start / prior (partial pooling).
+
+## Data flow contracts
+
+- A **Choice** is always `(chosen_id, rejected_id[, domain])`. Triads and board-selects are
+  decomposed into pairwise `(chosen, rejected)` records before fitting.
+- The **kernel** is a serializable object: `{ shared_vector, domain_offsets, axes, color_map,
+  exemplars, provenance }`. See `docs/DATA_MODEL.md`.
+
+Do not invent alternative representations. If a new need arises, extend `DATA_MODEL.md` first.

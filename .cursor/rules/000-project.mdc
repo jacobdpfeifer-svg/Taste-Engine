@@ -1,0 +1,42 @@
+---
+description: What we are building and the non-negotiable principles
+alwaysApply: true
+---
+
+# Taste Engine — project overview
+
+We are building a **general taste engine**: a system that learns a person's aesthetic
+preferences from *choices* (not verbal descriptions), represents them as geometry (a location
+and direction in an embedding space), and later applies that model to generate designs across
+mediums (interiors, exteriors, apparel, color schemes, objects).
+
+Read `docs/SPEC.md` for the full design and `docs/TASKS.md` for the ordered build plan. Always
+work top-down through `docs/TASKS.md` and respect the phase gates — do not build the generation
+layer before validation passes.
+
+## Golden rules (violating these breaks the product)
+
+1. **Choice over description.** The user interface elicits preference by *picking between shown
+   options* (pairwise / odd-one-out / board-select). Never build a UI that asks the user to
+   describe their taste in words. Any words shown are AI-authored and user-confirmed, never
+   user-authored free text as a primary signal. (Optional "why?" fields are allowed but must
+   never block progress.)
+2. **Taste is geometry, not adjectives.** The stored model is vectors + exemplars + discovered
+   axes, never a prose brief the model has to re-interpret.
+3. **Hierarchy, not a single point.** Represent taste as a shared vector `g` plus per-domain
+   offsets `d_k` (see `010-architecture`). Never collapse to one universal point, never assume
+   full cross-domain transfer.
+4. **Validation before product.** The falsifiable tests in `app/validation/` are the definition
+   of done for Phase 1. If hold-out prediction is not above chance, stop and report — do not
+   proceed to later phases.
+5. **Images are references, not context.** Store image paths + captions + precomputed
+   embeddings. Never inline raw image bytes into prompts or model context.
+6. **Honest epistemics.** This is a preference model, not a personality diagnosis. Do not add
+   copy or features that claim to read someone's psyche. Report confidence, not certainty.
+
+## Stack
+
+- Backend: Python 3.11+, FastAPI, numpy, scikit-learn, stdlib sqlite3. See `020-conventions`.
+- Frontend: Vite + React + TypeScript, plain CSS. See `020-conventions`.
+- Embeddings behind an adapter interface; default `stub` (deterministic, no downloads) so the
+  whole system runs and tests pass with zero external dependencies.
